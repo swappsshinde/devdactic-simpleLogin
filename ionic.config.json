@@ -1,0 +1,8 @@
+{
+  "name": "ionic2-go",
+  "app_id": "dcdaae19",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
